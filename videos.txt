@@ -10,6 +10,8 @@
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
+{ITZY}{Ringo}{Ringo}{C}{1}
+{ITZY}{Voltage}{Voltage}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
 {KARINA (aespa)}{aespa}{UP}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{1}
@@ -28,5 +30,6 @@
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{C}{1}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{DBE}{1}
 {xikers}{HOUSE OF TRICKY HOW TO PLAY}{DO or DIE}{C}{1}
+{xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}
 {ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}
