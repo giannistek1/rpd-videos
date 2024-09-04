@@ -1,4 +1,12 @@
 {Ailee}{Invitation}{I Will Show You}{C}{1}
+{BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
+{BEAST}{Good Luck}{Good Luck}{C}{1}
+{BEAST}{Good Luck}{Good Luck}{P}{1}
+{BEAST}{Hard to love, How to love}{Shadow}{C}{1}
+{BEAST}{Lights Go On Again}{Beautiful}{C}{1}
+{BEAST}{Mastermind}{Breath}{C}{1}
+{BEAST}{Midnight Sun}{Beautiful Night}{C}{1}
+{BEAST}{Shock Of The New Era}{Shock}{C}{1}
 {BoA}{ID; Peace B}{ID; Peace B}{C}{1}
 {BoA}{ID; Peace B}{ID; Peace B}{DB}{1}
 {BOYS PLANET (ZEROBASEONE)}{BOYS PLANET - FINAL TOP9 BATTLE}{Jelly Pop}{C}{1}
@@ -20,6 +28,7 @@
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
+{ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
