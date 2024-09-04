@@ -30,6 +30,11 @@
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{C}{1}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{DBE}{1}
 {xikers}{HOUSE OF TRICKY HOW TO PLAY}{DO or DIE}{C}{1}
+{xikers}{HOUSE OF TRICKY HOW TO PLAY}{HOME BOY}{C}{1}
+{xikers}{HOUSE OF TRICKY HOW TO PLAY}{Koong}{C}{1}
+{xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{C}{1}
+{xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{DB}{1}
 {xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}
+{xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}
 {ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}
