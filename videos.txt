@@ -30,6 +30,7 @@
 {KATSEYE}{Touch}{Touch}{C}{1}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
+{NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
