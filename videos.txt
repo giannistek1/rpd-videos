@@ -30,9 +30,12 @@
 {KATSEYE}{Touch}{Touch}{C}{1}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
+{LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
+{Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
+{Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
