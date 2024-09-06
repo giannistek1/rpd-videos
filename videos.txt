@@ -41,6 +41,13 @@
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
+{STAYC}{LIT}{LIT}{C}{1}
+{STAYC}{Metamorphic}{Cheeky Icy Thang}{P}{1}
+{STAYC}{POPPY}{POPPY}{C}{1}
+{STAYC}{STEREOTYPE}{SLOW DOWN}{C}{1}
+{STAYC}{Teddy Bear}{Teddy Bear}{C}{1}
+{STAYC}{TEENFRESH}{Bubble}{C}{1}
+{STAYC}{WE NEED LOVE}{BEAUTIFUL MONSTER}{C}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
