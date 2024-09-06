@@ -21,8 +21,10 @@
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
+{ITZY}{Algorhythm}{Algorhythm}{P}{1}
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
+{Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
 {KARINA (aespa)}{aespa}{UP}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{1}
@@ -32,10 +34,17 @@
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
+{NCT Dream}{Dream()scape}{Smoothie}{C}{1}
+{NCT Dream}{Dream()scape}{Smoothie}{C}{3}
+{NewJeans}{Get Up}{Cool With You}{C}{1}
+{NewJeans}{Supernatural}{Right Now}{C}{2}
+{NewJeans}{Supernatural}{Supernatural}{CDB}{2}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
+{Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
+{Taeyeon (SNSD)}{Why}{Why}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
