@@ -43,6 +43,7 @@
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {STAYC}{LIT}{LIT}{C}{1}
 {STAYC}{Metamorphic}{Cheeky Icy Thang}{P}{1}
+{STAYC}{Metamorphic}{Stay WITH me}{C}{1}
 {STAYC}{POPPY}{POPPY}{C}{1}
 {STAYC}{STEREOTYPE}{SLOW DOWN}{C}{1}
 {STAYC}{Teddy Bear}{Teddy Bear}{C}{1}
