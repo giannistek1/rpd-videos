@@ -55,6 +55,7 @@
 {Taeyeon (SNSD)}{Why}{Why}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
+{TZUYU (Twice)}{abouTZU}{Run Away}{P}{1}
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
