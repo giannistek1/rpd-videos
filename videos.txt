@@ -99,5 +99,10 @@
 {xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{DB}{1}
 {xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}
 {xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}
+{YENA}{GOOD MORNING}{Good Girls in the Dark}{C}{1}
+{YENA}{GOOD MORNING}{Good Girls in the Dark}{C}{2}
+{YENA}{HATE XX}{Hate Rodrigo}{C}{1}
+{YENA}{HATE XX}{WICKED LOVE}{C}{1}
+{YENA}{SMARTPHONE}{SMARTPHONE}{C}{1}
 {ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}
