@@ -15,6 +15,12 @@
 {BOYS PLANET (ZEROBASEONE)}{BOYS PLANET - FINAL TOP9 BATTLE}{Jelly Pop}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}
+{DKB}{Autumn}{24 7}{C}{1}
+{DKB}{I Need Love}{I Need Love}{C}{1}
+{DKB}{I Need Love}{I Need Love}{P}{1}
+{DKB}{I Need Love}{I Need Love}{P}{2}
+{DKB}{REBEL}{Sober}{C}{1}
+{DKB}{REBEL}{Sober}{P}{1}
 {Dreamcatcher}{Apocalypse Follow Us}{Vision}{C}{1}
 {Dreamcatcher}{Apocalypse From us}{BONVOYAGE}{C}{1}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}
