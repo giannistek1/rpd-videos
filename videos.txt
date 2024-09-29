@@ -40,7 +40,11 @@
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
+{IVE}{CRUSH}{CRUSH}{C}{1}
+{IVE}{WAVE}{WAVE}{C}{1}
+{IVE}{WAVE}{WAVE}{C}{2}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
+{KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
 {KARINA (aespa)}{aespa}{UP}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{1}
@@ -48,6 +52,7 @@
 {KATSEYE}{Touch}{Touch}{C}{1}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
+{LESERAFFIM}{CRAZY}{CRAZY}{C}{2}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Dream()scape}{Smoothie}{C}{1}
