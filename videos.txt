@@ -16,6 +16,7 @@
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}
 {DKB}{Autumn}{24 7}{C}{1}
+{DKB}{GROWTH}{Work Hard}{C}{2}
 {DKB}{HIP}{What The Hell}{C}{1}
 {DKB}{HIP}{What The Hell}{DB}{1}
 {DKB}{I Need Love}{I Need Love}{C}{1}
@@ -25,6 +26,7 @@
 {DKB}{LOVE}{Still}{C}{1}
 {DKB}{REBEL}{Sober}{C}{1}
 {DKB}{REBEL}{Sober}{P}{1}
+{DKB}{Rollercoaster}{Rollercoaster}{C}{2}
 {DKB}{The Dice Is Cast}{ALL IN}{C}{1}
 {DKB}{Urban Ride}{Flirting X}{C}{1}
 {DKB}{WE LOVE YOU}{Told You}{C}{1}
