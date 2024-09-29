@@ -48,6 +48,8 @@
 {IVE}{CRUSH}{CRUSH}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
+{JEON SOMI}{Game Plan}{Fast Forward}{P}{1}
+{JEON SOMI}{Ice Cream}{Ice Cream}{C}{1}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
