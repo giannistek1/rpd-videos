@@ -52,7 +52,7 @@
 {KATSEYE}{Touch}{Touch}{C}{1}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
-{LESERAFFIM}{CRAZY}{CRAZY}{C}{2}
+{LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Dream()scape}{Smoothie}{C}{1}
