@@ -15,6 +15,11 @@
 {BOYS PLANET (ZEROBASEONE)}{BOYS PLANET - FINAL TOP9 BATTLE}{Jelly Pop}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}
+{CHUNG HA}{Algorithm}{Algorithm}{C}{1}
+{CHUNG HA}{Bare&Rare}{Sparkling}{C}{1}
+{CHUNG HA}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
+{CHUNG HA}{EENIE MEENIE}{EENIE MEENIE}{P}{2}
+{CHUNG HA}{EENIE MEENIE}{Im Ready}{C}{2}
 {DKB}{Autumn}{24 7}{C}{1}
 {DKB}{GROWTH}{Work Hard}{C}{2}
 {DKB}{HIP}{What The Hell}{C}{1}
