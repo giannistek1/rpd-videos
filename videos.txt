@@ -62,8 +62,10 @@
 {LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
+{NCT Dream}{Candy}{Candy}{C}{1}
 {NCT Dream}{Dream()scape}{Smoothie}{C}{1}
 {NCT Dream}{Dream()scape}{Smoothie}{C}{3}
+{NCT Dream}{ISTJ}{ISTJ}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
@@ -89,6 +91,8 @@
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
+{XG}{NEW DANCE}{NEW DANCE}{P}{1}
+{XG}{TGIF}{TGIF}{C}{1}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{ROCKSTAR}{C}{1}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{C}{1}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{TRICKY HOUSE}{DBE}{1}
