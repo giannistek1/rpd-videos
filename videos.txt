@@ -16,11 +16,11 @@
 {BOYS PLANET (ZEROBASEONE)}{BOYS PLANET - FINAL TOP9 BATTLE}{Jelly Pop}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}
-{CHUNG HA}{Algorithm}{Algorithm}{C}{1}
-{CHUNG HA}{Bare&Rare}{Sparkling}{C}{1}
-{CHUNG HA}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
-{CHUNG HA}{EENIE MEENIE}{EENIE MEENIE}{P}{2}
-{CHUNG HA}{EENIE MEENIE}{Im Ready}{C}{2}
+{CHUNG HA (I.O.I.)}{Algorithm}{Algorithm}{C}{1}
+{CHUNG HA (I.O.I.)}{Bare&Rare}{Sparkling}{C}{1}
+{CHUNG HA (I.O.I.)}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
+{CHUNG HA (I.O.I.)}{EENIE MEENIE}{EENIE MEENIE}{P}{2}
+{CHUNG HA (I.O.I.)}{EENIE MEENIE}{Im Ready}{C}{2}
 {DKB}{Autumn}{24 7}{C}{1}
 {DKB}{GROWTH}{Work Hard}{C}{2}
 {DKB}{HIP}{What The Hell}{C}{1}
@@ -49,8 +49,8 @@
 {IVE}{CRUSH}{CRUSH}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
-{JEON SOMI}{Game Plan}{Fast Forward}{P}{1}
-{JEON SOMI}{Ice Cream}{Ice Cream}{C}{1}
+{JEON SOMI (I.O.I.)}{Game Plan}{Fast Forward}{P}{1}
+{JEON SOMI (I.O.I.)}{Ice Cream}{Ice Cream}{C}{1}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
@@ -104,10 +104,10 @@
 {xikers}{HOUSE OF TRICKY Trial And Error}{Red Sun}{DB}{1}
 {xikers}{HOUSE OF TRICKY Trial And Error}{We Dont Stop}{C}{1}
 {xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}
-{YENA}{GOOD MORNING}{Good Girls in the Dark}{C}{1}
-{YENA}{GOOD MORNING}{Good Girls in the Dark}{C}{2}
-{YENA}{HATE XX}{Hate Rodrigo}{C}{1}
-{YENA}{HATE XX}{WICKED LOVE}{C}{1}
-{YENA}{SMARTPHONE}{SMARTPHONE}{C}{1}
+{YENA (IZ ONE)}{GOOD MORNING}{Good Girls in the Dark}{C}{1}
+{YENA (IZ ONE)}{GOOD MORNING}{Good Girls in the Dark}{C}{2}
+{YENA (IZ ONE)}{HATE XX}{Hate Rodrigo}{C}{1}
+{YENA (IZ ONE)}{HATE XX}{WICKED LOVE}{C}{1}
+{YENA (IZ ONE)}{SMARTPHONE}{SMARTPHONE}{C}{1}
 {ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}
