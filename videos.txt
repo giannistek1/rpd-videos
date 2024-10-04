@@ -92,6 +92,7 @@
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
+{XG}{MASCARA}{MASCARA}{C}{1}
 {XG}{NEW DANCE}{NEW DANCE}{P}{1}
 {XG}{TGIF}{TGIF}{C}{1}
 {xikers}{HOUSE OF TRICKY Doorbell Ringing}{ROCKSTAR}{C}{1}
