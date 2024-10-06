@@ -1,4 +1,6 @@
 {(G)I-DLE}{HEAT}{I Want That}{C}{1}
+{2NE1}{Crush}{Gotta Be You}{C}{1}
+{2NE1}{I Love You}{I Love You}{C}{1}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{C}{1}
@@ -41,6 +43,7 @@
 {Dreamcatcher}{Apocalypse From us}{BONVOYAGE}{C}{1}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
+{ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
@@ -81,6 +84,7 @@
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {OH MY GIRL}{CLOSER}{CLOSER}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
+{RIIZE}{Lucky}{Lucky}{P}{1}
 {STAYC}{LIT}{LIT}{C}{1}
 {STAYC}{Metamorphic}{Cheeky Icy Thang}{P}{1}
 {STAYC}{Metamorphic}{Stay WITH me}{C}{1}
