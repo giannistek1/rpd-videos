@@ -63,10 +63,18 @@
 {LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
+{NCT Dream}{Beatbox}{Beatbox}{C}{1}
+{NCT Dream}{Best Friend Ever}{Best Friend Ever}{C}{1}
+{NCT Dream}{Best Friend Ever}{Best Friend Ever}{C}{2}
 {NCT Dream}{Candy}{Candy}{C}{1}
 {NCT Dream}{Dream()scape}{Smoothie}{C}{1}
 {NCT Dream}{Dream()scape}{Smoothie}{C}{3}
+{NCT Dream}{Dream()scape}{Unknown}{C}{1}
+{NCT Dream}{Glitch Mode}{Glitch Mode}{C}{2}
+{NCT Dream}{Glitch Mode}{Glitch Mode}{DB}{1}
 {NCT Dream}{ISTJ}{ISTJ}{C}{1}
+{NCT Dream}{ISTJ}{Poison}{C}{1}
+{NCT Dream}{Moonlight}{Moonlight}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
