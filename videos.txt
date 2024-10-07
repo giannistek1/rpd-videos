@@ -101,7 +101,10 @@
 {TAEYONG (NCT)}{TAP}{TAP}{C}{1}
 {TAEYONG (NCT)}{TAP}{TAP}{PDB}{2}
 {TAEYONG (NCT)}{TAP}{TAP}{P}{1}
+{Twice}{BDZ}{BDZ}{C}{2}
+{Twice}{Breakthrough}{Breakthrough}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
+{Twice}{Kura Kura}{Kura Kura}{C}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
 {TZUYU (Twice)}{abouTZU}{Run Away}{P}{1}
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
