@@ -97,10 +97,10 @@
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
 {Taeyeon (SNSD)}{Why}{Why}{C}{1}
-{TAEYONG (NCT)}{TAP}{TAP}{CDB}{2}
-{TAEYONG (NCT)}{TAP}{TAP}{C}{1}
-{TAEYONG (NCT)}{TAP}{TAP}{PDB}{2}
-{TAEYONG (NCT)}{TAP}{TAP}{P}{1}
+{TAEYONG (NCT 127)}{TAP}{TAP}{CDB}{2}
+{TAEYONG (NCT 127)}{TAP}{TAP}{C}{1}
+{TAEYONG (NCT 127)}{TAP}{TAP}{PDB}{2}
+{TAEYONG (NCT 127)}{TAP}{TAP}{P}{1}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
