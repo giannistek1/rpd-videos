@@ -90,6 +90,7 @@
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
+{NSYNC}{Bye Bye Bye}{Bye Bye Bye}{C}{1}
 {OH MY GIRL}{CLOSER}{CLOSER}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
