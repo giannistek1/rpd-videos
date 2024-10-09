@@ -3,6 +3,7 @@
 {2NE1}{Crush}{Gotta Be You}{C}{1}
 {2NE1}{I Love You}{I Love You}{C}{1}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
+{BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{P}{1}
@@ -121,6 +122,8 @@
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
+{Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}
+{Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
 {XG}{GRL GVNG}{GRL GVNG}{C}{1}
 {XG}{MASCARA}{MASCARA}{C}{1}
