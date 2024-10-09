@@ -112,6 +112,8 @@
 {STAYC}{Teddy Bear}{Teddy Bear}{C}{1}
 {STAYC}{TEENFRESH}{Bubble}{C}{1}
 {STAYC}{WE NEED LOVE}{BEAUTIFUL MONSTER}{C}{1}
+{Stray Kids}{ATE}{Chk Chk Boom}{CE}{2}
+{Stray Kids}{ATE}{Chk Chk Boom}{C}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
