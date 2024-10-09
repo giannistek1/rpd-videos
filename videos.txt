@@ -54,6 +54,8 @@
 {f(x)}{Chu}{Chu}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
+{HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
+{HWASA (Mamamoo)}{O!}{NA}{C}{1}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
