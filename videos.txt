@@ -79,6 +79,8 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DBE}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}
+{MEOVV}{MEOW}{MEOW}{C}{2}
+{MEOVV}{MEOW}{MEOW}{DBE}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}
 {NCT Dream}{Best Friend Ever}{Best Friend Ever}{C}{1}
