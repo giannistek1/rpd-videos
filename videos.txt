@@ -2,6 +2,14 @@
 {2NE1}{2NE1}{I Dont Care}{C}{1}
 {2NE1}{Crush}{Gotta Be You}{C}{1}
 {2NE1}{I Love You}{I Love You}{C}{1}
+{2NE1}{Lollipop}{Lollipop}{C}{2}
+{2PM}{0159PM}{Heartbeat}{C}{1}
+{2PM}{0159PM}{Heartbeat}{DBE}{1}
+{2PM}{200PM Time for Change}{Again & Again}{C}{1}
+{2PM}{GROWN}{A.D.T.O.Y.}{C}{1}
+{2PM}{HANDS UP}{HANDS UP}{C}{1}
+{2PM}{Must}{Make It}{C}{1}
+{2PM}{Still 0200pm}{Ill Be Back}{C}{1}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
