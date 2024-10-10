@@ -33,11 +33,11 @@
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{P}{2}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{Im Ready}{C}{2}
-{CL (2NE1)}{+HWA+}{+HWA+}{C}{1}
 {CL (2NE1)}{Alpha}{Tie a Cherry}{C}{1}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{CDB}{3}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{C}{1}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{C}{2}
+{CL (2NE1)}{HWA}{HWA}{C}{1}
 {CL (2NE1)}{SPICY}{SPICY}{C}{1}
 {CL (2NE1)}{The Baddest Female}{The Bladdest Female}{C}{1}
 {DKB}{Autumn}{24 7}{C}{1}
