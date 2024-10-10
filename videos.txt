@@ -67,6 +67,14 @@
 {f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{C}{1}
 {f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{P}{1}
 {f(x)}{Chu}{Chu}{C}{1}
+{FIFTY FIFTY}{Love Tune}{SOS}{C}{1}
+{FIFTY FIFTY}{Love Tune}{SOS}{C}{3}
+{FIFTY FIFTY}{Love Tune}{Starry Night}{C}{1}
+{FIFTY FIFTY}{Love Tune}{Starry Night}{P}{1}
+{FIFTY FIFTY}{The Beginning Cupid}{Cupid}{C}{1}
+{FIFTY FIFTY}{THE FIFTY}{Higher}{C}{1}
+{FIFTY FIFTY}{THE FIFTY}{Log In}{C}{1}
+{FIFTY FIFTY}{THE FIFTY}{Log In}{DBC}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
