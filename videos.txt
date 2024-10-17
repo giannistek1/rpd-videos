@@ -114,6 +114,9 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}
 {MEOVV}{MEOW}{MEOW}{C}{2}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
+{NCT 127}{2 Baddies}{2 Baddies}{C}{1}
+{NCT 127}{2 Baddies}{2 Baddies}{DB}{1}
+{NCT 127}{2 Baddies}{2 Baddies}{P}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}
 {NCT Dream}{Best Friend Ever}{Best Friend Ever}{C}{1}
