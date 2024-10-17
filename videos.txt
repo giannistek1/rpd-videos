@@ -1,5 +1,7 @@
 {(G)I-DLE}{HEAT}{I Want That}{C}{1}
 {(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}
+{(G)I-DLE}{Wife}{Wife}{C}{1}
+{(G)I-DLE}{Wife}{Wife}{DB}{1}
 {2NE1}{2NE1}{I Dont Care}{C}{1}
 {2NE1}{Crush}{Gotta Be You}{C}{1}
 {2NE1}{I Love You}{I Love You}{C}{1}
@@ -34,6 +36,7 @@
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{P}{2}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{Im Ready}{C}{2}
+{CHUNG HA (I.O.I)}{Flourishing}{Chica}{C}{1}
 {CL (2NE1)}{Alpha}{Tie a Cherry}{C}{1}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{CDB}{3}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{C}{1}
@@ -41,6 +44,7 @@
 {CL (2NE1)}{HWA}{HWA}{C}{1}
 {CL (2NE1)}{SPICY}{SPICY}{C}{1}
 {CL (2NE1)}{The Baddest Female}{The Bladdest Female}{C}{1}
+{CLC}{Helicopter}{Helicopter}{C}{1}
 {DKB}{Autumn}{24 7}{C}{1}
 {DKB}{GROWTH}{Work Hard}{C}{2}
 {DKB}{HIP}{What The Hell}{C}{1}
@@ -65,6 +69,9 @@
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
+{f(x)}{4 Walls}{4 Walls}{C}{1}
+{f(x)}{4 Walls}{4 Walls}{C}{2}
+{f(x)}{4 Walls}{4 Walls}{P}{1}
 {f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{C}{1}
 {f(x)}{Chocolate Love}{Chocolate Love (Electronic Pop)}{P}{1}
 {f(x)}{Chu}{Chu}{C}{1}
@@ -98,6 +105,7 @@
 {KATSEYE}{Touch}{Touch}{C}{1}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
+{LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}
 {LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}
