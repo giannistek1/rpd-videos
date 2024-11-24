@@ -99,6 +99,14 @@
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
+{KARD}{Dont Recall}{Dont Recall}{C}{1}
+{KARD}{Dumb Litty}{Dumb Litty}{C}{1}
+{KARD}{Hola Hola}{Hola Hola}{C}{1}
+{KARD}{Oh NaNa}{Oh NaNa ft. Heo Youngji}{C}{1}
+{KARD}{Red Moon}{Red Moon}{C}{1}
+{KARD}{Ride on the Wind}{Ride on the Wind}{C}{1}
+{KARD}{Rumor}{Rumor}{C}{1}
+{KARD}{Way with words}{Gunshot}{C}{1}
 {KARD}{Where To Now (Part.1 Yellow Light)}{Tell My Momma}{C}{1}
 {KARINA (aespa)}{aespa}{UP}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{1}
