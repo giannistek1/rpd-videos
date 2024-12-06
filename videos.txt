@@ -14,6 +14,12 @@
 {2PM}{HANDS UP}{HANDS UP}{C}{1}
 {2PM}{Must}{Make It}{C}{1}
 {2PM}{Still 0200pm}{Ill Be Back}{C}{1}
+{aespa}{Armageddon}{Set The Tone}{CE}{3}
+{aespa}{Armageddon}{Set The Tone}{C}{1}
+{aespa}{Armageddon}{Set The Tone}{C}{2}
+{aespa}{Drama}{Trick Or Trick}{C}{1}
+{aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}
+{aespa}{Whiplash}{Whiplash}{C}{2}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
@@ -141,6 +147,7 @@
 {NewJeans}{Get Up}{Cool With You}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
+{NINGNING (aespa)}{aespa}{Bored}{C}{1}
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {NSYNC}{Bye Bye Bye}{Bye Bye Bye}{C}{1}
 {NSYNC}{Its Gonna Be Me}{Its Gonna Be Me}{C}{1}
@@ -179,6 +186,7 @@
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}
+{WINTER (aespa)}{aespa}{Spark}{C}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
 {XG}{GRL GVNG}{GRL GVNG}{C}{1}
 {XG}{MASCARA}{MASCARA}{C}{1}
