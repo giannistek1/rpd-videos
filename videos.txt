@@ -21,6 +21,9 @@
 {aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}
 {aespa}{Whiplash}{Whiplash}{C}{2}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
+{ATEEZ}{Treasure EP. 3 One to All}{ILLUSION}{C}{1}
+{ATEEZ}{Treasure EP. Fin All to Action}{Dazzling Light}{C}{1}
+{ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{C}{1}
@@ -38,6 +41,7 @@
 {BOYS PLANET (ZEROBASEONE)}{BOYS PLANET - FINAL TOP9 BATTLE}{Jelly Pop}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}
+{Brave Girls}{Rollin}{Rollin}{C}{1}
 {CHUNG HA (I.O.I)}{Algorithm}{Algorithm}{C}{1}
 {CHUNG HA (I.O.I)}{Bare&Rare}{Sparkling}{C}{1}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
@@ -132,6 +136,9 @@
 {NCT 127}{2 Baddies}{2 Baddies}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}
+{NCT 127}{Favorite}{Favorite (Vampire)}{CDB}{2}
+{NCT 127}{Favorite}{Favorite (Vampire)}{C}{1}
+{NCT 127}{Favorite}{Favorite (Vampire)}{DB}{1}
 {NCT 127}{Limitless}{Limitless}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}
@@ -146,6 +153,7 @@
 {NCT Dream}{ISTJ}{ISTJ}{C}{1}
 {NCT Dream}{ISTJ}{Poison}{C}{1}
 {NCT Dream}{Moonlight}{Moonlight}{C}{1}
+{NCT U}{NCT 2018 Empathy}{BOSS}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
@@ -157,6 +165,8 @@
 {Oh!GG}{Lil Touch}{Lil Touch}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
+{Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}
+{Station Young}{Wow Thing}{Wow Thing}{C}{1}
 {STAYC}{LIT}{LIT}{C}{1}
 {STAYC}{Metamorphic}{Cheeky Icy Thang}{P}{1}
 {STAYC}{Metamorphic}{Stay WITH me}{C}{1}
@@ -181,6 +191,8 @@
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{C}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}
 {Trouble Maker}{Chemistry}{Now}{C}{1}
+{True Damage}{Giants}{Giants}{C}{1}
+{True Damage}{Giants}{Giants}{C}{2}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
