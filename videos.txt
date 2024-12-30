@@ -100,6 +100,7 @@
 {IVE}{CRUSH}{CRUSH}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
+{IZ ONE}{Oneiric Diary}{Rococo}{C}{1}
 {JEON SOMI (I.O.I)}{Game Plan}{Fast Forward}{P}{1}
 {JEON SOMI (I.O.I)}{Ice Cream}{Ice Cream}{C}{1}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
@@ -131,6 +132,7 @@
 {NCT 127}{2 Baddies}{2 Baddies}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}
+{NCT 127}{Limitless}{Limitless}{C}{1}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}
 {NCT Dream}{Best Friend Ever}{Best Friend Ever}{C}{1}
@@ -163,8 +165,11 @@
 {STAYC}{Teddy Bear}{Teddy Bear}{C}{1}
 {STAYC}{TEENFRESH}{Bubble}{C}{1}
 {STAYC}{WE NEED LOVE}{BEAUTIFUL MONSTER}{C}{1}
+{STAYC}{YOUNG-LUV.COM}{Run2U}{C}{1}
 {Stray Kids}{ATE}{Chk Chk Boom}{CE}{2}
 {Stray Kids}{ATE}{Chk Chk Boom}{C}{1}
+{Stray Kids}{SKZ2020}{Double Knot}{C}{1}
+{Stray Kids}{SKZ2020}{Double Knot}{DB}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
@@ -175,6 +180,7 @@
 {TAEYONG (NCT 127)}{TAP}{TAP}{P}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{C}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}
+{Trouble Maker}{Chemistry}{Now}{C}{1}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
@@ -184,6 +190,7 @@
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
+{Weeekly}{We Play}{After School}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}
 {WINTER (aespa)}{aespa}{Spark}{C}{1}
