@@ -14,6 +14,7 @@
 {2PM}{HANDS UP}{HANDS UP}{C}{1}
 {2PM}{Must}{Make It}{C}{1}
 {2PM}{Still 0200pm}{Ill Be Back}{C}{1}
+{A.C.E}{PINATA}{PINATA}{C}{1}
 {aespa}{Armageddon}{Set The Tone}{CE}{3}
 {aespa}{Armageddon}{Set The Tone}{C}{1}
 {aespa}{Armageddon}{Set The Tone}{C}{2}
@@ -110,6 +111,7 @@
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
 {IZ ONE}{Oneiric Diary}{Rococo}{C}{1}
+{JENNIE (Blackpink)}{Mantra}{Mantra}{C}{2}
 {JEON SOMI (I.O.I)}{Game Plan}{Fast Forward}{P}{1}
 {JEON SOMI (I.O.I)}{Ice Cream}{Ice Cream}{C}{1}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
