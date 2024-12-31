@@ -24,6 +24,7 @@
 {ATEEZ}{Treasure EP. 3 One to All}{ILLUSION}{C}{1}
 {ATEEZ}{Treasure EP. Fin All to Action}{Dazzling Light}{C}{1}
 {ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
+{BABYMONSTER}{DRIP}{DRIP}{C}{1}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{C}{1}
@@ -81,6 +82,7 @@
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD -daydream-}{No Doubt}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
+{EVERGLOW}{Reminiscence}{Dun Dun}{C}{3}
 {f(x)}{4 Walls}{4 Walls}{C}{1}
 {f(x)}{4 Walls}{4 Walls}{C}{2}
 {f(x)}{4 Walls}{4 Walls}{P}{1}
@@ -99,6 +101,8 @@
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
 {HWASA (Mamamoo)}{O!}{NA}{C}{1}
+{ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
+{ILLIT}{Ill Like You}{Tick-Tack}{C}{2}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
@@ -124,6 +128,8 @@
 {KATSEYE}{Debut}{Debut}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{2}
 {KATSEYE}{Touch}{Touch}{C}{1}
+{KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}
+{KISS OF LIFE}{Lose Yourself}{Igloo}{C}{3}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
 {LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}
@@ -210,6 +216,7 @@
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}
 {WINTER (aespa)}{aespa}{Spark}{C}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
+{WOOAH}{BLUSH}{BLUSH}{C}{1}
 {XG}{GRL GVNG}{GRL GVNG}{C}{1}
 {XG}{MASCARA}{MASCARA}{C}{1}
 {XG}{NEW DANCE}{NEW DANCE}{P}{1}
