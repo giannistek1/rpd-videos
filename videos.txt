@@ -217,6 +217,7 @@
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
 {WayV}{FREQUENCY}{FREQUENCY}{P}{1}
+{WayV}{Give Me That}{Give Me That}{C}{1}
 {WayV}{On My Youth}{On My Youth}{C}{1}
 {WayV}{On My Youth}{Poppin Love}{C}{1}
 {WayV}{Phantom}{Phantom}{C}{1}
