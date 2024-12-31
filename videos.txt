@@ -79,6 +79,7 @@
 {Dreamcatcher}{Prequel}{Sleep-walking}{DBE}{2}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
+{ENHYPEN}{ROMANCE UNTOLD -daydream-}{No Doubt}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
 {f(x)}{4 Walls}{4 Walls}{C}{1}
 {f(x)}{4 Walls}{4 Walls}{C}{2}
@@ -166,6 +167,7 @@
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
 {Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}
+{Solar (Mamamoo)}{Face}{Honey}{C}{1}
 {Station Young}{Wow Thing}{Wow Thing}{C}{1}
 {STAYC}{LIT}{LIT}{C}{1}
 {STAYC}{Metamorphic}{Cheeky Icy Thang}{P}{1}
@@ -180,6 +182,7 @@
 {Stray Kids}{ATE}{Chk Chk Boom}{C}{1}
 {Stray Kids}{SKZ2020}{Double Knot}{C}{1}
 {Stray Kids}{SKZ2020}{Double Knot}{DB}{1}
+{SUNMI (Wonder Girls)}{Heart Burn}{Heart Burn}{C}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
