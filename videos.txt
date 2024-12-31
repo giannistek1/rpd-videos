@@ -147,6 +147,7 @@
 {NCT 127}{Favorite}{Favorite (Vampire)}{C}{1}
 {NCT 127}{Favorite}{Favorite (Vampire)}{DB}{1}
 {NCT 127}{Limitless}{Limitless}{C}{1}
+{NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{2}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}
 {NCT Dream}{Best Friend Ever}{Best Friend Ever}{C}{1}
@@ -173,6 +174,7 @@
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
 {Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}
+{Seventeen}{Going Seventeen}{BOOMBOOM}{C}{1}
 {Solar (Mamamoo)}{Face}{Honey}{C}{1}
 {Station Young}{Wow Thing}{Wow Thing}{C}{1}
 {STAYC}{LIT}{LIT}{C}{1}
@@ -189,6 +191,7 @@
 {Stray Kids}{SKZ2020}{Double Knot}{C}{1}
 {Stray Kids}{SKZ2020}{Double Knot}{DB}{1}
 {SUNMI (Wonder Girls)}{Heart Burn}{Heart Burn}{C}{1}
+{SUNMI (Wonder Girls)}{LALALAY}{LALALAY}{C}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
@@ -211,6 +214,10 @@
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
 {VIVIZ}{VarioUS}{PULL UP}{C}{1}
+{WayV}{FREQUENCY}{FREQUENCY}{P}{1}
+{WayV}{On My Youth}{On My Youth}{C}{1}
+{WayV}{On My Youth}{Poppin Love}{C}{1}
+{WayV}{Phantom}{Phantom}{C}{1}
 {Weeekly}{We Play}{After School}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}
