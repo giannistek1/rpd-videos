@@ -50,6 +50,8 @@
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{P}{2}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{Im Ready}{C}{2}
 {CHUNG HA (I.O.I)}{Flourishing}{Chica}{C}{1}
+{CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{1}
+{CIX}{HELLO Chapter 1. Hello, Stranger}{Movie Star}{C}{2}
 {CL (2NE1)}{Alpha}{Tie a Cherry}{C}{1}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{CDB}{3}
 {CL (2NE1)}{Hello Bitches}{Hello Bitches}{C}{1}
@@ -102,6 +104,7 @@
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
 {HWASA (Mamamoo)}{O!}{NA}{C}{1}
+{I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
 {ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
 {ILLIT}{Ill Like You}{Tick-Tack}{C}{2}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
@@ -114,6 +117,7 @@
 {JENNIE (Blackpink)}{Mantra}{Mantra}{C}{2}
 {JEON SOMI (I.O.I)}{Game Plan}{Fast Forward}{P}{1}
 {JEON SOMI (I.O.I)}{Ice Cream}{Ice Cream}{C}{1}
+{Jessi}{What Type of X}{What Type of X}{C}{1}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
@@ -145,6 +149,8 @@
 {NCT 127}{2 Baddies}{2 Baddies}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}
+{NCT 127}{Awaken}{Wakey Wakey}{C}{1}
+{NCT 127}{Awaken}{Wakey Wakey}{C}{2}
 {NCT 127}{Favorite}{Favorite (Vampire)}{CDB}{2}
 {NCT 127}{Favorite}{Favorite (Vampire)}{C}{1}
 {NCT 127}{Favorite}{Favorite (Vampire)}{DB}{1}
@@ -164,6 +170,7 @@
 {NCT Dream}{ISTJ}{Poison}{C}{1}
 {NCT Dream}{Moonlight}{Moonlight}{C}{1}
 {NCT U}{NCT 2018 Empathy}{BOSS}{C}{1}
+{NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
