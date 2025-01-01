@@ -12,6 +12,7 @@
 {2PM}{200PM Time for Change}{Again & Again}{C}{1}
 {2PM}{GROWN}{A.D.T.O.Y.}{C}{1}
 {2PM}{HANDS UP}{HANDS UP}{C}{1}
+{2PM}{HANDS UP}{HANDS UP}{C}{2}
 {2PM}{Must}{Make It}{C}{1}
 {2PM}{Still 0200pm}{Ill Be Back}{C}{1}
 {A.C.E}{PINATA}{PINATA}{C}{1}
@@ -83,6 +84,9 @@
 {Dreamcatcher}{Prequel}{Sleep-walking}{DBE}{2}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
+{ENHYPEN}{Billy Poco}{Billy Poco}{C}{2}
+{ENHYPEN}{Billy Poco}{Billy Poco}{DB}{1}
+{ENHYPEN}{Billy Poco}{Billy Poco}{P}{1}
 {ENHYPEN}{ROMANCE UNTOLD -daydream-}{No Doubt}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
 {EVERGLOW}{Reminiscence}{Dun Dun}{C}{3}
