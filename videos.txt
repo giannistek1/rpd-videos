@@ -141,6 +141,7 @@
 {KATSEYE}{Debut}{Debut}{C}{2}
 {KATSEYE}{SIS (Soft Is Strong)}{My Way}{C}{1}
 {KATSEYE}{Touch}{Touch}{C}{1}
+{Key (SHINee)}{Pleasure Shop}{Pleasure Shop}{C}{1}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{3}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
@@ -219,6 +220,8 @@
 {SUNMI (Wonder Girls)}{LALALAY}{LALALAY}{C}{1}
 {SUNMI (Wonder Girls)}{Oh Sorry Ya}{Oh Sorry Ya}{C}{1}
 {SUNMI (Wonder Girls)}{STRANGER}{STRANGER}{C}{1}
+{TAEMIN (SHINee)}{ETERNAL}{Horizon}{C}{1}
+{TAEMIN (SHINee)}{ETERNAL}{Sexy In The Air}{C}{1}
 {Taeyang (BIGBANG)}{Rise}{Ringa Linga}{C}{1}
 {Taeyang (BIGBANG)}{Shoong!}{Shoong!}{C}{1}
 {Taeyeon (SNSD)}{Purpose}{Spark}{C}{1}
