@@ -139,6 +139,7 @@
 {KARINA (aespa)}{aespa}{UP}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{2}
+{KATSEYE}{SIS (Soft Is Strong)}{My Way}{C}{1}
 {KATSEYE}{Touch}{Touch}{C}{1}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{3}
@@ -226,16 +227,21 @@
 {TAEYONG (NCT 127)}{TAP}{TAP}{C}{1}
 {TAEYONG (NCT 127)}{TAP}{TAP}{PDB}{2}
 {TAEYONG (NCT 127)}{TAP}{TAP}{P}{1}
+{TREASURE}{LAST NIGHT}{LAST NIGHT}{C}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{C}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}
 {Trouble Maker}{Chemistry}{Now}{C}{1}
 {True Damage}{Giants}{Giants}{C}{1}
 {True Damage}{Giants}{Giants}{C}{2}
 {Twice}{BDZ}{BDZ}{C}{2}
+{Twice}{BETTER}{BETTER}{C}{1}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
+{Twice}{Candy Pop}{Candy Pop}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
 {Twice}{Kura Kura}{Kura Kura}{C}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
+{Twice}{STRATEGY}{Strategy}{C}{1}
+{Twice}{Twicetagram}{Look At Me}{C}{1}
 {TZUYU (Twice)}{abouTZU}{Run Away}{P}{1}
 {VIVIZ}{Rum Pum Pum}{Rum Pum Pum}{C}{1}
 {VIVIZ}{Summer Vibe}{LOVEADE}{C}{1}
