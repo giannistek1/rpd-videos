@@ -11,6 +11,7 @@
 {2PM}{0159PM}{Heartbeat}{C}{1}
 {2PM}{0159PM}{Heartbeat}{DBE}{1}
 {2PM}{200PM Time for Change}{Again & Again}{C}{1}
+{2PM}{GO CRAZY}{GO CRAZY}{C}{1}
 {2PM}{GROWN}{A.D.T.O.Y.}{C}{1}
 {2PM}{HANDS UP}{HANDS UP}{C}{1}
 {2PM}{HANDS UP}{HANDS UP}{C}{2}
@@ -125,6 +126,9 @@
 {JEON SOMI (I.O.I)}{Ice Cream}{Ice Cream}{C}{1}
 {Jessi}{What Type of X}{What Type of X}{C}{1}
 {Jo Yuri (IZ ONE)}{GLASSY}{GLASSY}{C}{1}
+{Jo Yuri (IZ ONE)}{LOVE ALL}{TAXI}{C}{1}
+{Jo Yuri (IZ ONE)}{Op.22 Y-Waltz in Major}{Love Shhh}{C}{1}
+{Jo Yuri (IZ ONE)}{Op.22 Y-Waltz in Minor}{Loveable}{C}{1}
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
