@@ -148,11 +148,15 @@
 {KATSEYE}{Touch}{Touch}{C}{1}
 {Kep1er}{DOUBLAST}{Up}{C}{1}
 {Kep1er}{DOUBLAST}{Up}{DB}{1}
+{Kep1er}{FLY-UP}{Wing Wing}{C}{1}
+{Kep1er}{Grand Prix}{Grand Prix}{C}{1}
+{Kep1er}{I Do! Do You}{I Do! Do You}{C}{1}
 {Kep1er}{Kep1going On}{Shooting Star}{C}{1}
 {Kep1er}{LOVESTRUCK}{Giddy}{C}{1}
 {Kep1er}{Magic Hour}{Galileo}{C}{1}
 {Kep1er}{Magic Hour}{Galileo}{DBE}{1}
 {Kep1er}{Magic Hour}{Galileo}{DB}{1}
+{Kep1er}{Straight Line}{Straight Line}{C}{1}
 {Kep1er}{TIPI-TAP}{TIPI-TAP}{C}{1}
 {Kep1er}{TROUBLESHOOTER}{We Fresh}{CDB}{2}
 {Kep1er}{TROUBLESHOOTER}{We Fresh}{C}{1}
