@@ -30,6 +30,9 @@
 {ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
 {BABYMONSTER}{DRIP}{DRIP}{C}{1}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
+{BADVILLAIN}{ZOOM}{ZOOM}{CE}{3}
+{BADVILLAIN}{ZOOM}{ZOOM}{C}{1}
+{BADVILLAIN}{ZOOM}{ZOOM}{C}{2}
 {BEAST}{Beast Is The B2ST}{Bad Girl}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{C}{1}
 {BEAST}{Good Luck}{Good Luck}{P}{1}
@@ -205,6 +208,8 @@
 {NCT Dream}{ISTJ}{ISTJ}{C}{1}
 {NCT Dream}{ISTJ}{Poison}{C}{1}
 {NCT Dream}{Moonlight}{Moonlight}{C}{1}
+{NCT Dream}{Rains in Heaven}{Rains in Heaven}{C}{1}
+{NCT Dream}{Rains in Heaven}{Rains in Heaven}{P}{1}
 {NCT U}{NCT 2018 Empathy}{BOSS}{C}{1}
 {NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
