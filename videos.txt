@@ -121,8 +121,8 @@
 {ITZY}{GOLD}{GOLD}{CDBE}{2}
 {ITZY}{GOLD}{GOLD}{CDB}{2}
 {ITZY}{GOLD}{GOLD}{C}{1}
-{ITZY}{Imaginary Friend}{Imaginary Friend}{CDB}{1}
-{ITZY}{Imaginary Friend}{Imaginary Friend}{C}{1}
+{ITZY}{GOLD}{Imaginary Friend}{CDB}{1}
+{ITZY}{GOLD}{Imaginary Friend}{C}{1}
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
 {IVE}{CRUSH}{CRUSH}{C}{1}
