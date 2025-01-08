@@ -114,7 +114,15 @@
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
 {ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
 {ILLIT}{Ill Like You}{Tick-Tack}{C}{2}
+{Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DBE}{1}
+{Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DB}{1}
+{Irene (Red Velvet)}{Like A Flower}{Like A Flower}{P}{1}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
+{ITZY}{GOLD}{GOLD}{CDBE}{2}
+{ITZY}{GOLD}{GOLD}{CDB}{2}
+{ITZY}{GOLD}{GOLD}{C}{1}
+{ITZY}{Imaginary Friend}{Imaginary Friend}{CDB}{1}
+{ITZY}{Imaginary Friend}{Imaginary Friend}{C}{1}
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
 {IVE}{CRUSH}{CRUSH}{C}{1}
