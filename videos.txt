@@ -290,10 +290,15 @@
 {WayV}{Give Me That}{Give Me That}{C}{1}
 {WayV}{On My Youth}{On My Youth}{C}{1}
 {WayV}{On My Youth}{Poppin Love}{C}{1}
+{WayV}{Phantom}{Diamonds Only}{C}{1}
 {WayV}{Phantom}{Phantom}{C}{1}
 {Weeekly}{We Play}{After School}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{C}{1}
 {Wheein (Mamamoo)}{In The Mood}{In The Mood}{P}{1}
+{Wheein (Mamamoo)}{Redd}{TRASH}{C}{1}
+{Wheein (Mamamoo)}{Redd}{TRASH}{P}{1}
+{Wheein (Mamamoo)}{Redd}{water color}{C}{1}
+{Wheein (Mamamoo)}{WHEE}{Make Me Happy}{C}{1}
 {WINTER (aespa)}{aespa}{Spark}{C}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
 {WOOAH}{BLUSH}{BLUSH}{C}{1}
@@ -320,5 +325,8 @@
 {YENA (IZ ONE)}{NEMONEMO}{NEMONEMO}{C}{1}
 {YENA (IZ ONE)}{SMARTPHONE}{SMARTPHONE}{C}{1}
 {Yeonjun (TXT)}{GGUM}{GGUM}{C}{2}
+{YUQI ((G)I-DLE)}{A Page}{Bonnie & Clyde}{C}{1}
+{YUQI ((G)I-DLE)}{YUQ1}{FREAK}{C}{1}
+{YUQI ((G)I-DLE)}{YUQ1}{On Clap (ft.Lexie Liu)}{C}{2}
 {ZEROBASEONE}{Cinema Paradise}{Good So Bad}{C}{1}
 {ZEROBASEONE}{MELTING POINT}{CRUSH}{C}{1}
