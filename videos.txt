@@ -320,7 +320,7 @@
 {xikers}{Tsuki (Lunatic)}{Tsuki (Lunatic)}{P}{1}
 {YENA (IZ ONE)}{GOOD MORNING}{Good Girls in the Dark}{C}{1}
 {YENA (IZ ONE)}{GOOD MORNING}{Good Girls in the Dark}{C}{2}
-{YENA (IZ ONE)}{HATE XX}{Hate Rodrigo}{C}{1}
+{YENA (IZ ONE)}{HATE XX}{Hate Rodrigo ft. YUQI}{C}{1}
 {YENA (IZ ONE)}{HATE XX}{WICKED LOVE}{C}{1}
 {YENA (IZ ONE)}{NEMONEMO}{NEMONEMO}{C}{1}
 {YENA (IZ ONE)}{SMARTPHONE}{SMARTPHONE}{C}{1}
