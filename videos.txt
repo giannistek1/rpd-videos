@@ -25,6 +25,9 @@
 {aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}
 {aespa}{Whiplash}{Whiplash}{C}{2}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
+{ARTMS}{Dall}{Butterfly Effect}{C}{1}
+{ARTMS}{Dall}{Virtual Angel}{C}{1}
+{ARTMS}{Pre1 Birth}{Birth}{C}{1}
 {ATEEZ}{Treasure EP. 3 One to All}{ILLUSION}{C}{1}
 {ATEEZ}{Treasure EP. Fin All to Action}{Dazzling Light}{C}{1}
 {ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
