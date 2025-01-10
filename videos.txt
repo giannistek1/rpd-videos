@@ -177,6 +177,7 @@
 {Kep1er}{TROUBLESHOOTER}{We Fresh}{C}{1}
 {Kep1er}{TROUBLESHOOTER}{We Fresh}{C}{3}
 {Key (SHINee)}{Pleasure Shop}{Pleasure Shop}{C}{1}
+{Kim Lip (LOONA)}{Kim Lip}{Eclipse}{C}{1}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{1}
 {KISS OF LIFE}{Lose Yourself}{Igloo}{C}{3}
 {KISS OF LIFE}{Sticky}{Sticky}{C}{1}
@@ -189,6 +190,11 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}
 {MEOVV}{MEOW}{MEOW}{C}{2}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
+{Moonbyul (Mamamoo)}{6equence}{Lunatic}{C}{1}
+{Moonbyul (Mamamoo)}{Dark Side of the Moon}{Eclipse}{C}{1}
+{Moonbyul (Mamamoo)}{Selfish}{Selfish ft. Seulgi}{C}{1}
+{Moonbyul (Mamamoo)}{Starlit of Muse}{TOUCHIN&MOVIN}{C}{1}
+{Moonbyul (Mamamoo)}{Starlit of Twinkle}{Is This Love}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}
