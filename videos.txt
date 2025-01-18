@@ -30,7 +30,9 @@
 {ARTMS}{Dall}{Butterfly Effect}{C}{1}
 {ARTMS}{Dall}{Virtual Angel}{C}{1}
 {ARTMS}{Pre1 Birth}{Birth}{C}{1}
+{ATEEZ}{GOLDEN HOUR Part.2}{Ice On My Teeth}{C}{2}
 {ATEEZ}{KINGDOM FINAL WHO IS THE KING}{The Real}{C}{2}
+{ATEEZ}{THE WORLD EP.1 MOVEMENT}{Cyberpunk}{C}{1}
 {ATEEZ}{Treasure EP. 3 One to All}{ILLUSION}{C}{1}
 {ATEEZ}{Treasure EP. Fin All to Action}{Dazzling Light}{C}{1}
 {ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
@@ -164,6 +166,7 @@
 {KARD}{Rumor}{Rumor}{C}{1}
 {KARD}{Way with words}{Gunshot}{C}{1}
 {KARD}{Where To Now (Part.1 Yellow Light)}{Tell My Momma}{C}{1}
+{KARD}{Where To Now}{Spin}{C}{1}
 {KARINA (aespa)}{aespa}{UP}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{1}
 {KATSEYE}{Debut}{Debut}{C}{2}
