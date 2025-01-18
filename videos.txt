@@ -215,10 +215,13 @@
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}
 {NCT 127}{Awaken}{Wakey Wakey}{C}{1}
 {NCT 127}{Awaken}{Wakey Wakey}{C}{2}
+{NCT 127}{Ay-Yo}{Ay-Yo}{C}{1}
+{NCT 127}{Ay-Yo}{DJ}{P}{1}
 {NCT 127}{Favorite}{Favorite (Vampire)}{CDB}{2}
 {NCT 127}{Favorite}{Favorite (Vampire)}{C}{1}
 {NCT 127}{Favorite}{Favorite (Vampire)}{DB}{1}
 {NCT 127}{Limitless}{Limitless}{C}{1}
+{NCT 127}{Walk}{Walk}{C}{1}
 {NCT 127}{We Are Superhuman}{Highway to Heaven}{C}{2}
 {NCT DOJAEJUNG}{PERFUME}{Perfume}{C}{1}
 {NCT Dream}{Beatbox}{Beatbox}{C}{1}
