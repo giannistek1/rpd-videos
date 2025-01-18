@@ -108,6 +108,7 @@
 {ENHYPEN}{ROMANCE UNTOLD -daydream-}{No Doubt}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
 {EVERGLOW}{Reminiscence}{Dun Dun}{C}{3}
+{EXID}{X}{Fire}{C}{1}
 {EXO}{Power}{Power}{C}{1}
 {f(x)}{4 Walls}{4 Walls}{C}{1}
 {f(x)}{4 Walls}{4 Walls}{C}{2}
@@ -202,6 +203,8 @@
 {Mamamoo}{Gleam}{Gleam}{C}{1}
 {MEOVV}{MEOW}{MEOW}{C}{2}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
+{MEOVV}{TOXIC}{BODY}{C}{2}
+{MEOVV}{TOXIC}{BODY}{DBE}{1}
 {Moonbyul (Mamamoo)}{6equence}{Lunatic}{C}{1}
 {Moonbyul (Mamamoo)}{Dark Side of the Moon}{Eclipse}{C}{1}
 {Moonbyul (Mamamoo)}{Selfish}{Selfish ft. Seulgi}{C}{1}
