@@ -1,4 +1,5 @@
 {(G)I-DLE}{HEAT}{I Want That}{C}{1}
+{(G)I-DLE}{I Made}{Senorita}{C}{1}
 {(G)I-DLE}{I Never Die}{My Bag}{C}{2}
 {(G)I-DLE}{I Sway}{Klaxon}{C}{1}
 {(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}
@@ -191,6 +192,7 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DBE}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}
+{Mamamoo}{Gleam}{Gleam}{C}{1}
 {MEOVV}{MEOW}{MEOW}{C}{2}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
 {Moonbyul (Mamamoo)}{6equence}{Lunatic}{C}{1}
