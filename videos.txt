@@ -257,6 +257,9 @@
 {NSYNC}{Its Gonna Be Me}{Its Gonna Be Me}{C}{1}
 {OH MY GIRL}{CLOSER}{CLOSER}{C}{1}
 {Oh!GG}{Lil Touch}{Lil Touch}{C}{1}
+{ONEUS}{Devil}{No Diggity}{DBE}{1}
+{ONEUS}{Fly With Us}{Lit}{DB}{1}
+{ONEUS}{In Its Time}{A Song Written Easily}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {PENTAGON}{In vite U}{Feelin Like}{C}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
