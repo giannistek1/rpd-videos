@@ -199,6 +199,11 @@
 {LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}
 {LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
+{Loossemble}{Loossemble}{Sensitive}{C}{1}
+{Loossemble}{One of a Kind}{Girls Night}{C}{1}
+{Loossemble}{TTYL}{Confessions}{C}{1}
+{Loossemble}{TTYL}{Cotton Candy}{C}{1}
+{Loossemble}{TTYL}{TTYL}{C}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DBE}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}
