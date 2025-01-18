@@ -126,6 +126,8 @@
 {FIFTY FIFTY}{THE FIFTY}{Log In}{DBC}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
+{GYUBIN}{Really Like You}{Really Like You}{C}{1}
+{GYUBIN}{Satellite}{Satellite}{C}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
 {HWASA (Mamamoo)}{O!}{NA}{C}{1}
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
