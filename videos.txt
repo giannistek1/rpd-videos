@@ -18,6 +18,7 @@
 {2PM}{HANDS UP}{HANDS UP}{C}{2}
 {2PM}{Must}{Make It}{C}{1}
 {2PM}{Still 0200pm}{Ill Be Back}{C}{1}
+{4Minute}{Crazy}{Crazy}{C}{1}
 {A.C.E}{PINATA}{PINATA}{C}{1}
 {aespa}{Armageddon}{Set The Tone}{CE}{3}
 {aespa}{Armageddon}{Set The Tone}{C}{1}
@@ -29,6 +30,7 @@
 {ARTMS}{Dall}{Butterfly Effect}{C}{1}
 {ARTMS}{Dall}{Virtual Angel}{C}{1}
 {ARTMS}{Pre1 Birth}{Birth}{C}{1}
+{ATEEZ}{KINGDOM FINAL WHO IS THE KING}{The Real}{C}{2}
 {ATEEZ}{Treasure EP. 3 One to All}{ILLUSION}{C}{1}
 {ATEEZ}{Treasure EP. Fin All to Action}{Dazzling Light}{C}{1}
 {ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
@@ -104,6 +106,7 @@
 {ENHYPEN}{ROMANCE UNTOLD -daydream-}{No Doubt}{C}{1}
 {ENHYPEN}{ROMANCE UNTOLD}{Brought The Heat Back}{C}{2}
 {EVERGLOW}{Reminiscence}{Dun Dun}{C}{3}
+{EXO}{Power}{Power}{C}{1}
 {f(x)}{4 Walls}{4 Walls}{C}{1}
 {f(x)}{4 Walls}{4 Walls}{C}{2}
 {f(x)}{4 Walls}{4 Walls}{P}{1}
@@ -129,6 +132,7 @@
 {Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DB}{1}
 {Irene (Red Velvet)}{Like A Flower}{Like A Flower}{P}{1}
 {ITZY}{Algorhythm}{Algorhythm}{P}{1}
+{ITZY}{Checkmate}{Sneakers}{P}{1}
 {ITZY}{GOLD}{GOLD}{CDBE}{2}
 {ITZY}{GOLD}{GOLD}{CDB}{2}
 {ITZY}{GOLD}{GOLD}{C}{1}
@@ -249,6 +253,7 @@
 {RIIZE}{Lucky}{Lucky}{P}{1}
 {Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}
 {Seventeen}{Going Seventeen}{BOOMBOOM}{C}{1}
+{SISTAR}{Touch N Move}{Touch My Body}{C}{1}
 {Solar (Mamamoo)}{Face}{Honey}{C}{1}
 {Station Young}{Wow Thing}{Wow Thing}{C}{1}
 {STAYC}{LIT}{LIT}{C}{1}
