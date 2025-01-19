@@ -102,6 +102,7 @@
 {Dreamcatcher}{Prequel}{Sleep-walking}{DBE}{2}
 {Dreamcatcher}{VillainS}{OOTD}{C}{1}
 {Dreamcatcher}{VirtuouS}{JUSTICE}{C}{1}
+{Dynamic Duo}{Street Woman Fighter2 (SWF2) Class Mission}{Smoke}{C}{1}
 {ENHYPEN}{Billy Poco}{Billy Poco}{C}{2}
 {ENHYPEN}{Billy Poco}{Billy Poco}{DB}{1}
 {ENHYPEN}{Billy Poco}{Billy Poco}{P}{1}
