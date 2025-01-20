@@ -254,6 +254,7 @@
 {NCT U}{NCT 2018 Empathy}{BOSS}{C}{1}
 {NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
+{NewJeans}{Gods}{Gods}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
 {NINGNING (aespa)}{aespa}{Bored}{C}{1}
@@ -315,6 +316,12 @@
 {TRI.BE}{CONMIGO}{RUB-A-DUM}{C}{2}
 {TRI.BE}{Da Loca}{DOOM DOOM TA}{C}{1}
 {TRI.BE}{Da Loca}{DOOM DOOM TA}{P}{1}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{CDB}{3}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{C}{1}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{C}{2}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{C}{5}
+{tripleS}{ASSEMBLE24}{Girls Never Die}{DB}{1}
+{tripleS}{ASSEMBLE}{Rising}{C}{1}
 {Trouble Maker}{Chemistry}{Now}{C}{1}
 {True Damage}{Giants}{Giants}{C}{1}
 {True Damage}{Giants}{Giants}{C}{2}
@@ -322,6 +329,7 @@
 {Twice}{BETTER}{BETTER}{C}{1}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
 {Twice}{Candy Pop}{Candy Pop}{C}{1}
+{Twice}{Eyes Wide Open}{Go Hard}{C}{1}
 {Twice}{I GOT YOU}{I GOT YOU}{E}{1}
 {Twice}{Kura Kura}{Kura Kura}{C}{1}
 {Twice}{READY TO BE}{SET ME FREE}{P}{1}
