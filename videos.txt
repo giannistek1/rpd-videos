@@ -147,6 +147,7 @@
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
 {IVE}{CRUSH}{CRUSH}{C}{1}
+{IVE}{REBEL HEART}{REBEL HEART}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
 {IZ ONE}{Oneiric Diary}{Rococo}{C}{1}
@@ -208,7 +209,11 @@
 {LUCAS (NCT)}{Renegade}{Renegade}{C}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DBE}{1}
 {LUCAS (NCT)}{Renegade}{Renegade}{DB}{1}
+{Mamamoo+}{ACT 1, SCENE 1}{GGBB}{C}{1}
+{Mamamoo+}{TWO RABBITS}{dangdang}{C}{2}
 {Mamamoo}{Gleam}{Gleam}{C}{1}
+{Mamamoo}{Mic On}{Illella}{C}{2}
+{Mamamoo}{Purple}{Yes I Am}{C}{2}
 {MEOVV}{MEOW}{MEOW}{C}{2}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
 {MEOVV}{TOXIC}{BODY}{C}{2}
