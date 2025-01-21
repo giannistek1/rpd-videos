@@ -163,6 +163,7 @@
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
+{KARA}{Step}{Step}{C}{1}
 {KARD}{Dont Recall}{Dont Recall}{C}{1}
 {KARD}{Dumb Litty}{Dumb Litty}{C}{1}
 {KARD}{Hola Hola}{Hola Hola}{C}{1}
