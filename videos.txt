@@ -27,6 +27,7 @@
 {aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}
 {aespa}{Whiplash}{Whiplash}{C}{2}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
+{APRIL}{Da Capo}{LALALILALA}{P}{1}
 {ARTMS}{Dall}{Butterfly Effect}{C}{1}
 {ARTMS}{Dall}{Virtual Angel}{C}{1}
 {ARTMS}{Pre1 Birth}{Birth}{C}{1}
@@ -214,6 +215,8 @@
 {Mamamoo}{Gleam}{Gleam}{C}{1}
 {Mamamoo}{Mic On}{Illella}{C}{2}
 {Mamamoo}{Purple}{Yes I Am}{C}{2}
+{MAVE}{PANDORAS BOX}{PANDORA}{C}{1}
+{MAVE}{Whats My Name}{Whats My Name}{C}{1}
 {MEOVV}{MEOW}{MEOW}{C}{2}
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
 {MEOVV}{TOXIC}{BODY}{C}{2}
@@ -316,12 +319,16 @@
 {TRI.BE}{CONMIGO}{RUB-A-DUM}{C}{2}
 {TRI.BE}{Da Loca}{DOOM DOOM TA}{C}{1}
 {TRI.BE}{Da Loca}{DOOM DOOM TA}{P}{1}
+{tripleS}{ACCESS}{Generation}{C}{1}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{CDB}{3}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{C}{1}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{C}{2}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{C}{5}
 {tripleS}{ASSEMBLE24}{Girls Never Die}{DB}{1}
 {tripleS}{ASSEMBLE}{Rising}{C}{1}
+{tripleS}{Performante}{Hit the Floor}{C}{1}
+{tripleS}{Performante}{Hit the Floor}{DBE}{1}
+{tripleS}{Untitled}{Untitled}{C}{2}
 {Trouble Maker}{Chemistry}{Now}{C}{1}
 {True Damage}{Giants}{Giants}{C}{1}
 {True Damage}{Giants}{Giants}{C}{2}
