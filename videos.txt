@@ -58,7 +58,7 @@
 {BEAST}{Shock Of The New Era}{Shock}{C}{1}
 {BEAST}{TIME}{1230}{C}{1}
 {Billie}{the collective soul and unconscious chapter one}{GingaMingaYo (the strange world)}{C}{1}
-{Block B}{BLOCKBUSTER #1}{Nillili Mambo}{C}{1}
+{Block B}{BLOCKBUSTER 1}{Nillili Mambo}{C}{1}
 {Block B}{HER}{HER}{C}{1}
 {Block B}{Very Good}{Very Good}{C}{1}
 {Block B}{Welcome to the BLOCK}{NalinA}{C}{2}
