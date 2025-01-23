@@ -68,6 +68,7 @@
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{C}{1}
 {BOYS PLANET (ZEROBASEONE)}{Here I Am}{Here I Am}{DB}{1}
 {Brave Girls}{Rollin}{Rollin}{C}{1}
+{BTS}{Proof}{Run BTS}{C}{1}
 {CHUNG HA (I.O.I)}{Algorithm}{Algorithm}{C}{1}
 {CHUNG HA (I.O.I)}{Bare&Rare}{Sparkling}{C}{1}
 {CHUNG HA (I.O.I)}{EENIE MEENIE}{EENIE MEENIE}{C}{1}
@@ -226,6 +227,8 @@
 {MEOVV}{MEOW}{MEOW}{DBE}{1}
 {MEOVV}{TOXIC}{BODY}{C}{2}
 {MEOVV}{TOXIC}{BODY}{DBE}{1}
+{MISAMO (Twice)}{Identity}{Identity}{C}{1}
+{MISAMO (Twice)}{NEW LOOK}{NEW LOOK}{C}{2}
 {Moonbyul (Mamamoo)}{6equence}{Lunatic}{C}{1}
 {Moonbyul (Mamamoo)}{Dark Side of the Moon}{Eclipse}{C}{1}
 {Moonbyul (Mamamoo)}{Selfish}{Selfish ft. Seulgi}{C}{1}
@@ -263,6 +266,7 @@
 {NCT U}{NCT Resonance Pt. 2}{Work It}{C}{1}
 {NewJeans}{Get Up}{Cool With You}{C}{1}
 {NewJeans}{Gods}{Gods}{C}{1}
+{NewJeans}{New Jeans}{Cookie}{C}{1}
 {NewJeans}{Supernatural}{Right Now}{C}{2}
 {NewJeans}{Supernatural}{Supernatural}{CDB}{2}
 {NINGNING (aespa)}{aespa}{Bored}{C}{1}
