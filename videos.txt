@@ -131,6 +131,14 @@
 {FIFTY FIFTY}{THE FIFTY}{Higher}{C}{1}
 {FIFTY FIFTY}{THE FIFTY}{Log In}{C}{1}
 {FIFTY FIFTY}{THE FIFTY}{Log In}{DBC}{1}
+{Girls Generation (SNSD)}{Flower Power}{Flower Power}{C}{1}
+{Girls Generation (SNSD)}{Girls Generation (JP)}{Bad Girl}{C}{1}
+{Girls Generation (SNSD)}{Girls Generation}{Baby Baby}{C}{1}
+{Girls Generation (SNSD)}{Hoot}{Hoot}{P}{1}
+{Girls Generation (SNSD)}{Lion Heart}{You Think}{C}{1}
+{Girls Generation (SNSD)}{Mr. Taxi}{Mr. Taxi}{C}{1}
+{Girls Generation (SNSD)}{My Oh My}{My Oh My}{C}{1}
+{Girls Generation (SNSD)}{Oh!}{Oh!}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {GYUBIN}{Really Like You}{Really Like You}{C}{1}
@@ -341,6 +349,7 @@
 {Trouble Maker}{Chemistry}{Now}{C}{1}
 {True Damage}{Giants}{Giants}{C}{1}
 {True Damage}{Giants}{Giants}{C}{2}
+{TTS (Girls Generation)}{Holler}{Hollerl}{C}{1}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{BETTER}{BETTER}{C}{1}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
