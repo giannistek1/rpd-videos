@@ -139,12 +139,14 @@
 {Girls Generation (SNSD)}{Mr. Taxi}{Mr. Taxi}{C}{1}
 {Girls Generation (SNSD)}{My Oh My}{My Oh My}{C}{1}
 {Girls Generation (SNSD)}{Oh!}{Oh!}{C}{1}
+{Girls Generation (SNSD)}{Paparazzi}{Paparazzi}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {GYUBIN}{Really Like You}{Really Like You}{C}{1}
 {GYUBIN}{Satellite}{Satellite}{C}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
 {HWASA (Mamamoo)}{O!}{NA}{C}{1}
+{HYOYEON (SNSD)}{Wannabe}{Wannabe}{C}{1}
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
 {ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
 {ILLIT}{Ill Like You}{Tick-Tack}{C}{2}
@@ -297,6 +299,7 @@
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
 {PENTAGON}{In vite U}{Feelin Like}{C}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
+{Seohyun (SNSD)}{Dont Say No}{Dont Say No}{C}{1}
 {Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}
 {Seventeen}{Going Seventeen}{BOOMBOOM}{C}{1}
 {SISTAR}{Touch N Move}{Touch My Body}{C}{1}
@@ -330,6 +333,7 @@
 {TAEYONG (NCT 127)}{TAP}{TAP}{C}{1}
 {TAEYONG (NCT 127)}{TAP}{TAP}{PDB}{2}
 {TAEYONG (NCT 127)}{TAP}{TAP}{P}{1}
+{Tiffany (SNSD)}{I Just Wanna Dance}{I Just Wanna Dance}{C}{1}
 {TREASURE}{LAST NIGHT}{LAST NIGHT}{C}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{C}{1}
 {TREASURE}{THE SECOND STEP CHAPTER TWO}{HELLO}{DBE}{1}
