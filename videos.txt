@@ -140,12 +140,18 @@
 {Girls Generation (SNSD)}{My Oh My}{My Oh My}{C}{1}
 {Girls Generation (SNSD)}{Oh!}{Oh!}{C}{1}
 {Girls Generation (SNSD)}{Paparazzi}{Paparazzi}{C}{1}
+{Girls Generation (SNSD)}{Party}{Party}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
 {GYUBIN}{Really Like You}{Really Like You}{C}{1}
 {GYUBIN}{Satellite}{Satellite}{C}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
 {HWASA (Mamamoo)}{O!}{NA}{C}{1}
+{HYOYEON (SNSD)}{DEEP}{DEEP}{C}{1}
+{HYOYEON (SNSD)}{DEEP}{DEEP}{DBE}{1}
+{HYOYEON (SNSD)}{Mystery}{Mystery}{P}{1}
+{HYOYEON (SNSD)}{Picture}{Picture}{C}{1}
+{HYOYEON (SNSD)}{Punk Right Now}{Punk Right Now}{C}{1}
 {HYOYEON (SNSD)}{Wannabe}{Wannabe}{C}{1}
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
 {ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
@@ -354,6 +360,7 @@
 {True Damage}{Giants}{Giants}{C}{1}
 {True Damage}{Giants}{Giants}{C}{2}
 {TTS (Girls Generation)}{Holler}{Hollerl}{C}{1}
+{TTS (SNSD)}{Twinkle}{Twinkle}{C}{2}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{BETTER}{BETTER}{C}{1}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
