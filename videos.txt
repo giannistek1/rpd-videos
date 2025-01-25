@@ -360,7 +360,7 @@
 {True Damage}{Giants}{Giants}{C}{1}
 {True Damage}{Giants}{Giants}{C}{2}
 {TTS (Girls Generation)}{Holler}{Hollerl}{C}{1}
-{TTS (SNSD)}{Twinkle}{Twinkle}{C}{2}
+{TTS (Girls Generation)}{Twinkle}{Twinkle}{C}{2}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{BETTER}{BETTER}{C}{1}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
