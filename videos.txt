@@ -321,6 +321,8 @@
 {NMIXX}{Sonar (Breaker)}{Sonar (Breaker)}{C}{1}
 {NSYNC}{Bye Bye Bye}{Bye Bye Bye}{C}{1}
 {NSYNC}{Its Gonna Be Me}{Its Gonna Be Me}{C}{1}
+{NU EST}{Face}{Face}{C}{1}
+{NU EST}{Face}{Face}{DB}{1}
 {OH MY GIRL}{CLOSER}{CLOSER}{C}{1}
 {Oh!GG}{Lil Touch}{Lil Touch}{C}{1}
 {ONEUS}{Devil}{No Diggity}{DBE}{1}
