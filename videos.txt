@@ -183,6 +183,7 @@
 {JEON SOMI (I.O.I)}{Game Plan}{Fast Forward}{P}{1}
 {JEON SOMI (I.O.I)}{Ice Cream}{Ice Cream}{C}{1}
 {Jessi}{What Type of X}{What Type of X}{C}{1}
+{Jimin (BTS)}{Muse}{Who}{C}{1}
 {Jo Yuri (IZ ONE)}{GLASSY}{GLASSY}{C}{1}
 {Jo Yuri (IZ ONE)}{LOVE ALL}{TAXI}{C}{1}
 {Jo Yuri (IZ ONE)}{Op.22 Y-Waltz in Major}{Love Shhh}{C}{1}
@@ -190,6 +191,11 @@
 {Joy (Red Velvet)}{Hello}{Hello}{C}{2}
 {KAI (EXO)}{ROVER}{ROVER}{C}{1}
 {KAI, SEULGI, JENO, KARINA}{2022 Winter SMTOWN SMCU PALACE}{Hot & Cold}{C}{1}
+{KARA}{Day & Night}{Mamma Mia}{C}{1}
+{KARA}{Day & Night}{Mamma Mia}{DB}{1}
+{KARA}{Lupin}{Lupin}{C}{1}
+{KARA}{Lupin}{Lupin}{P}{1}
+{KARA}{Pandora}{Pandora}{C}{1}
 {KARA}{Step}{Step}{C}{1}
 {KARD}{Dont Recall}{Dont Recall}{C}{1}
 {KARD}{Dumb Litty}{Dumb Litty}{C}{1}
@@ -369,6 +375,7 @@
 {True Damage}{Giants}{Giants}{C}{2}
 {TTS (Girls Generation)}{Holler}{Hollerl}{C}{1}
 {TTS (Girls Generation)}{Twinkle}{Twinkle}{C}{2}
+{TVXQ}{Catch Me}{Catch Me}{C}{1}
 {Twice}{BDZ}{BDZ}{C}{2}
 {Twice}{BETTER}{BETTER}{C}{1}
 {Twice}{Breakthrough}{Breakthrough}{C}{1}
