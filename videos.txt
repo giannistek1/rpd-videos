@@ -242,6 +242,7 @@
 {KISS OF LIFE}{Sticky}{Te Quiero}{C}{1}
 {LE SSERAFIM}{ANTIFRAGILE}{No Celestial}{C}{1}
 {LE SSERAFIM}{CRAZY}{CRAZY}{C}{2}
+{Lee Chae Yeon (IZ ONE)}{Over The Moon}{KNOCK}{C}{1}
 {LISA (Blackpink)}{ROCKSTAR}{ROCKSTAR}{C}{1}
 {Loossemble}{Loossemble}{Sensitive}{C}{1}
 {Loossemble}{One of a Kind}{Girls Night}{C}{1}
