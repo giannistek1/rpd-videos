@@ -145,6 +145,10 @@
 {Girls Generation (SNSD)}{Party}{Party}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{C}{1}
 {GISELLE (aespa)}{aespa}{Dopamine}{DB}{1}
+{Golden Child}{Game Changer}{Ra Pam Pam}{C}{1}
+{Golden Child}{Goldenness}{Let Me}{C}{1}
+{Golden Child}{Re-Boot}{Wannabe}{CDB}{1}
+{Golden Child}{Re-Boot}{Wannabe}{C}{1}
 {GYUBIN}{Really Like You}{Really Like You}{C}{1}
 {GYUBIN}{Satellite}{Satellite}{C}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
@@ -178,6 +182,7 @@
 {IVE}{REBEL HEART}{REBEL HEART}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
+{IZ ONE}{One-reeler Act IV}{Sequence}{C}{1}
 {IZ ONE}{Oneiric Diary}{Rococo}{C}{1}
 {JENNIE (Blackpink)}{Mantra}{Mantra}{C}{2}
 {JEON SOMI (I.O.I)}{Game Plan}{Fast Forward}{P}{1}
