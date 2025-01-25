@@ -158,6 +158,10 @@
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
 {ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
 {ILLIT}{Ill Like You}{Tick-Tack}{C}{2}
+{Infinite}{Be Back}{Back}{CDB}{1}
+{Infinite}{Infinitize}{The Chaser}{C}{1}
+{Infinite}{Over the Top}{Be Mine}{C}{1}
+{Infinite}{Over the Top}{Be Mine}{DB}{1}
 {Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DBE}{1}
 {Irene (Red Velvet)}{Like A Flower}{Like A Flower}{DB}{1}
 {Irene (Red Velvet)}{Like A Flower}{Like A Flower}{P}{1}
