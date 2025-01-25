@@ -183,7 +183,9 @@
 {JEON SOMI (I.O.I)}{Game Plan}{Fast Forward}{P}{1}
 {JEON SOMI (I.O.I)}{Ice Cream}{Ice Cream}{C}{1}
 {Jessi}{What Type of X}{What Type of X}{C}{1}
+{Jimin (BTS)}{Face}{Like Crazy}{C}{1}
 {Jimin (BTS)}{Muse}{Who}{C}{1}
+{Jimin (BTS)}{Set Me Free Pt.2}{Set Me Free Pt.2}{C}{1}
 {Jo Yuri (IZ ONE)}{GLASSY}{GLASSY}{C}{1}
 {Jo Yuri (IZ ONE)}{LOVE ALL}{TAXI}{C}{1}
 {Jo Yuri (IZ ONE)}{Op.22 Y-Waltz in Major}{Love Shhh}{C}{1}
