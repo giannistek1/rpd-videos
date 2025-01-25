@@ -37,6 +37,8 @@
 {ATEEZ}{Treasure EP. 3 One to All}{ILLUSION}{C}{1}
 {ATEEZ}{Treasure EP. Fin All to Action}{Dazzling Light}{C}{1}
 {ATEEZ}{Treasure Epilogue Action to Answer}{Precious}{C}{1}
+{B.A.P}{Warrior}{Warrior}{C}{1}
+{B.A.P}{Warrior}{Warrior}{DB}{1}
 {BABYMONSTER}{DRIP}{DRIP}{C}{1}
 {BADVILLAIN}{HURRICANE}{HURRICANE}{C}{1}
 {BADVILLAIN}{OVERSTEP}{+82}{DB}{1}
@@ -303,7 +305,9 @@
 {ONEUS}{Fly With Us}{Lit}{DB}{1}
 {ONEUS}{In Its Time}{A Song Written Easily}{C}{1}
 {ONEUS}{La Dolce Vita}{Baila Conmigo}{CDB}{1}
+{Orange Caramel}{Shanghai Romance}{Shanghai Romance}{C}{1}
 {PENTAGON}{In vite U}{Feelin Like}{C}{1}
+{PIXY}{With my wings}{Wings}{CDB}{1}
 {RIIZE}{Lucky}{Lucky}{P}{1}
 {Seohyun (SNSD)}{Dont Say No}{Dont Say No}{C}{1}
 {Seulgi (Red Velvet)}{28 Reasons}{28 Reasons}{C}{1}
@@ -390,6 +394,7 @@
 {Wheein (Mamamoo)}{WHEE}{Make Me Happy}{C}{1}
 {WINTER (aespa)}{aespa}{Spark}{C}{1}
 {Wonder Girls}{The Wonder Years Trilogy}{Nobody}{C}{1}
+{WONHO (MONSTA X)}{Obsession}{Eye On You}{C}{1}
 {WOOAH}{BLUSH}{BLUSH}{C}{1}
 {XG}{GRL GVNG}{GRL GVNG}{C}{1}
 {XG}{MASCARA}{MASCARA}{C}{1}
