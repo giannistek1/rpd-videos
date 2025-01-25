@@ -264,6 +264,11 @@
 {Moonbyul (Mamamoo)}{Selfish}{Selfish ft. Seulgi}{C}{1}
 {Moonbyul (Mamamoo)}{Starlit of Muse}{TOUCHIN&MOVIN}{C}{1}
 {Moonbyul (Mamamoo)}{Starlit of Twinkle}{Is This Love}{C}{1}
+{NATTY (Kiss of Life)}{NINETEEN}{NINETEEN}{C}{1}
+{NATTY (Kiss of Life)}{NINETEEN}{NINETEEN}{DB}{1}
+{NATTY (Kiss of Life)}{Sugarcoat}{Sugarcoat}{C}{1}
+{NATTY (Kiss of Life)}{Sugarcoat}{Sugarcoat}{P}{1}
+{NATTY (Kiss of Life)}{Teddy Bear}{Teddy Bear}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{C}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{DB}{1}
 {NCT 127}{2 Baddies}{2 Baddies}{P}{1}
