@@ -152,6 +152,12 @@
 {Golden Child}{Goldenness}{Let Me}{C}{1}
 {Golden Child}{Re-Boot}{Wannabe}{CDB}{1}
 {Golden Child}{Re-Boot}{Wannabe}{C}{1}
+{GOT7}{Breath of Love Last Piece}{Last Piece}{CDB}{1}
+{GOT7}{Breath of Love Last Piece}{Last Piece}{C}{1}
+{GOT7}{DYE}{Poison}{C}{1}
+{GOT7}{Flight Log Departure}{Fly}{C}{1}
+{GOT7}{GOT7}{NANANA}{C}{1}
+{GOT7}{WINTER HEPTAGON}{PYTHON}{C}{1}
 {GYUBIN}{Really Like You}{Really Like You}{C}{1}
 {GYUBIN}{Satellite}{Satellite}{C}{1}
 {HWASA (Mamamoo)}{Chili}{Chili}{C}{1}
