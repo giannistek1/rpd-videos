@@ -20,11 +20,15 @@
 {2PM}{Still 0200pm}{Ill Be Back}{C}{1}
 {4Minute}{Crazy}{Crazy}{C}{1}
 {A.C.E}{PINATA}{PINATA}{C}{1}
+{aespa}{Armageddon}{Mine}{C}{2}
 {aespa}{Armageddon}{Set The Tone}{CE}{3}
 {aespa}{Armageddon}{Set The Tone}{C}{1}
 {aespa}{Armageddon}{Set The Tone}{C}{2}
 {aespa}{Drama}{Trick Or Trick}{C}{1}
 {aespa}{Lifes Too Short}{Lifes Too Short}{C}{1}
+{aespa}{MY WORLD}{Salty & Sweet}{C}{1}
+{aespa}{MY WORLD}{Thirsty}{C}{1}
+{aespa}{Whiplash}{Pink Hoodie}{C}{1}
 {aespa}{Whiplash}{Whiplash}{C}{2}
 {Ailee}{Invitation}{I Will Show You}{C}{1}
 {APRIL}{Da Capo}{LALALILALA}{P}{1}
@@ -188,6 +192,7 @@
 {ITZY}{Ringo}{Ringo}{C}{1}
 {ITZY}{Voltage}{Voltage}{C}{1}
 {IVE}{CRUSH}{CRUSH}{C}{1}
+{IVE}{IVE EMPATHY}{ATTITUDE}{C}{1}
 {IVE}{REBEL HEART}{REBEL HEART}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{1}
 {IVE}{WAVE}{WAVE}{C}{2}
